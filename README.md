@@ -101,7 +101,7 @@ InsureIQ-Analytics/
 
 ## 📷 Preview
 
-![InsureIQ Analytics Dashboard](InsureIQ_Analytics.jpg)
+![InsureIQ Analytics Dashboard](https://github.com/Lawal-Jnr-Analyst/InsureIQ-Analytics/blob/main/InsureIQ%20Analytics.jpg)
 
 ---
 
